@@ -4,8 +4,8 @@
 This project implements a simplified version of **Shamir's Secret Sharing** algorithm to compute the constant term `c` of a polynomial based on given roots in JSON format. The goal is to solve for `c` using the roots provided in the input and identify any incorrect points in the second test case.
 
 ### Technologies Used:
-- **Language:** Any programming language except **Python**
-- **Environment:** Any IDE or environment of choice
+- **Language:** Used Programming Language **JavaScript**
+- **Environment:** VS Code
 
 ### Problem Summary:
 Given an unknown polynomial of degree `m`, we require `m + 1` roots (encoded in different bases) to solve for its coefficients. The task involves:
